@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laomeowmeow
 - 👀 I'm interested in reading, conducting research, and analyzing.
-- 🌱 I’m currently learning Flutter, JavaScript, C#, REST and XCode.
+- 🌱 I’m currently learning coding.
 - 💞️ I'm looking to collaborate on a project involving native application development.
 - 📫 You can reach me by sending a private message.
 - 😄 Pronouns: Physically old but mentally still young.
